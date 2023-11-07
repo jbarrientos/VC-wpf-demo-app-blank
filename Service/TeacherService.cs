@@ -2,6 +2,7 @@
 using Domain.Models.Interfaces;
 using Infrastructure;
 using Service.Common;
+using Service.Interfaces;
 
 namespace Service
 {

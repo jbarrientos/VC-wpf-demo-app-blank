@@ -3,6 +3,7 @@ using Domain.Models.Interfaces;
 using Infrastructure;
 using Infrastructure.Interfaces;
 using Service.Common;
+using Service.Interfaces;
 using System.Collections.Generic;
 using System.Linq;
 

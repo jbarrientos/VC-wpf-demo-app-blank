@@ -1,4 +1,4 @@
-﻿using Service;
+﻿using Service.Interfaces;
 using System.Windows;
 using Telerik.Windows.Controls;
 using UniversityWPF.ViewModels;

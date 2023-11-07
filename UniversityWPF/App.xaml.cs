@@ -1,7 +1,9 @@
-﻿using Infrastructure;
+﻿
+using Infrastructure;
 using Infrastructure.Interfaces;
 using Service;
 using Service.Common;
+using Service.Interfaces;
 using System.Windows;
 using Unity;
 using Unity.Lifetime;

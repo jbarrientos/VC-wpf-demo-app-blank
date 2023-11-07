@@ -1,4 +1,4 @@
-﻿using Service;
+﻿using Service.Interfaces;
 
 namespace UniversityWPF.ViewModels
 {

@@ -2,7 +2,7 @@
 using Domain.Models;
 using Domain.Models.Interfaces;
 
-namespace Service
+namespace Service.Interfaces
 {
     public interface IStudentService
     {
